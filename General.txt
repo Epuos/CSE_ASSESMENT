@@ -10,3 +10,4 @@ TEST: ddd
 <Classes.w object at 0x1023f1c10>
 /q to quit, /w to wave, /p point
 ヾ(＾ ∇ ＾).
+( ੭ ･ᴗ･ )੭
